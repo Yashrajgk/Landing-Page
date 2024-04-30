@@ -14,7 +14,7 @@ function App() {
   <div class="card-body">
     <img class="card-img-top" 
     src={portfolio}
-    alt="Card image cap" 
+    alt="" 
     height="200px"/>
     <h5 class="card-title">Portfolio website</h5>
     <p class="card-text">This is my Portfolio website showcasing my tech stack and some projects.</p>
@@ -26,7 +26,7 @@ function App() {
   <div class="card-body">
    <img class="card-img-top" 
     src={calendly} 
-    alt="Card image cap" 
+    alt="" 
     height="200px"/>
     <h5 class="card-title"> Let's Meet !</h5>
     <p class="card-text">Let's have a quick small talk.</p>
@@ -38,7 +38,7 @@ function App() {
   <div class="card-body">
   <img class="card-img-top" 
     src={github} 
-    alt="Card image cap" 
+    alt="" 
     height="200px"/>
     <h5 class="card-title">My Github</h5>
     <p class="card-text">This is my github account comparising of all my repository.</p>
